@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-// Función ALpha
+// Función Alpha
 
 double * alpha(double x,double v, double t){
     double g = 9.8;
